@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">CircleLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">CircleLayoutTest</string>
+    <string name="right_label">Right</string>
+    <string name="down_label">Down</string>
+    <string name="left_label">Left</string>
+    <string name="up_label">Up</string>
+
+</resources>
